@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language title="Russian (RU)" date_format="j M Y" time_format="H:i" currency_format="{value} {symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" addon_id="MMO/RenameAttachments" base_version_id="2010370" export_version="2">
-  <phrase title="mra_postfix" addon_id="MMO/RenameAttachments" version_id="2010270" version_string="2.1.2"><![CDATA[Postfix]]></phrase>
-  <phrase title="option.mraDownloadFileName" addon_id="MMO/RenameAttachments" version_id="2010270" version_string="2.1.2"><![CDATA[Attachment Name]]></phrase>
-  <phrase title="option.mraRenameAttachmentType" addon_id="MMO/RenameAttachments" version_id="2010270" version_string="2.1.2"><![CDATA[Rename Attachment Type]]></phrase>
-  <phrase title="option_explain.mraDownloadFileName" addon_id="MMO/RenameAttachments" version_id="2010270" version_string="2.1.2"><![CDATA[The string will be added download filename]]></phrase>
-  <phrase title="option_explain.mraRenameAttachmentType" addon_id="MMO/RenameAttachments" version_id="2010270" version_string="2.1.2"><![CDATA[Choose type, how to rename attachment add prefix or postfix]]></phrase>
-  <phrase title="option_group.mraRenameAttachments" addon_id="MMO/RenameAttachments" version_id="2010170" version_string="2.1.1"><![CDATA[[MMO] Rename Attachments]]></phrase>
-  <phrase title="option_group_description.mraRenameAttachments" addon_id="MMO/RenameAttachments" version_id="2010170" version_string="2.1.1"><![CDATA[]]></phrase>
+  <phrase title="mra_postfix" addon_id="MMO/RenameAttachments" version_id="2010370" version_string="2.1.3"><![CDATA[Постфикс]]></phrase>
+  <phrase title="option.mraDownloadFileName" addon_id="MMO/RenameAttachments" version_id="2010370" version_string="2.1.3"><![CDATA[Имя вложения]]></phrase>
+  <phrase title="option.mraRenameAttachmentType" addon_id="MMO/RenameAttachments" version_id="2010370" version_string="2.1.3"><![CDATA[Тип переименования вложения]]></phrase>
+  <phrase title="option_explain.mraDownloadFileName" addon_id="MMO/RenameAttachments" version_id="2010370" version_string="2.1.3"><![CDATA[Строка будет добавлена к имени скачиваемого файла]]></phrase>
+  <phrase title="option_explain.mraRenameAttachmentType" addon_id="MMO/RenameAttachments" version_id="2010370" version_string="2.1.3"><![CDATA[Выберите тип, как переименовать вложение, добавить префикс или постфикс]]></phrase>
+  <phrase title="option_group.mraRenameAttachments" addon_id="MMO/RenameAttachments" version_id="2010370" version_string="2.1.3"><![CDATA[[MMO] Rename Attachments]]></phrase>
+  <phrase title="option_group_description.mraRenameAttachments" addon_id="MMO/RenameAttachments" version_id="2010370" version_string="2.1.3"><![CDATA[]]></phrase>
 </language>
